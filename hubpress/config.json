@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mikaman",
-    "repositoryName": "mikaman.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mikaman","repositoryName":"mikaman.github.io","branch":"master"},"site":{"title":"Yli 140 merkkiä","description":"Ajatuksia maailmasta diplomi-insinööriopiskelijan silmin, mitkä eivät mahdu Twitter-viestiin. Lillukanvarsista isoihin linjoihin. Kirjoittaja on omasta mielestään järkiperäinen, liberaali ja aika höpsö tyyppi, joka uskaltaa olla myös väärässä.","logo":"blog_logo.png ","cover":"types-738846.jpg","googleAnalytics":"UA-67511840-1","url":"https://mikaman.github.io"},"socialnetwork":{"twitter":"https://twitter.com/mantymika","linkedin":"https://fi.linkedin.com/in/mikamantykangas","facebook":"https://www.facebook.com/mantym"},"theme":{"name":"Casper","url":"//mikaman.github.io/themes/Casper"}}
